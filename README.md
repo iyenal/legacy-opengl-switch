@@ -2,6 +2,8 @@
 
 Legacy OpenGL setup for the Nintendo Switch (libnx+glad+EGL).
 Fixed Function Pipeline like glVertex, glNormal, glColor, glTexCoord are supported, easing the port of legacy OpenGL applications (and games).
+Included some GLU helper functions implementation and sample GL code for straightforward implementation.
+
 ⚠️ New projects shouldn't use legacy OpenGL for several reasons such as performance (https://www.khronos.org/opengl/wiki/Legacy_OpenGL)
 
 This is part of Gen7 Engine's used and developed utilities open sourceing process for the greater good.
